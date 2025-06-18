@@ -36,7 +36,8 @@ git clone https://github.com/himalayzzz/todolist.git
 cd todolist
 flutter pub get
 flutter run
-📂 Project Structure
+
+## 📂 Project Structure
 css
 Copy
 Edit
